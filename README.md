@@ -29,9 +29,7 @@ To use SeqMaster, ensure that you have Python installed on your system. Then, in
    ```bash
    git clone https://github.com/your_username/SeqMaster.git
 
-2. Navigate to the project directory:
-   cd SeqMaster
-
+2. Navigate to the project directory
 3. Each analysis feature is implemented in separate Python files. You can run each feature by executing the corresponding Python script.
 4. Follow the interactive prompts in each script to perform the desired analysis.
    
