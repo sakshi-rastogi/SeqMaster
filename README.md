@@ -22,8 +22,7 @@ The aim of this project is to provide a streamlined approach to analyzing DNA se
 ## Installation
 To use SeqMaster, ensure that you have Python installed on your system. Then, install the required libraries:
 
-```bash
-pip install biopython
+    pip install biopython
 
 ## Usage
 1. Clone this repository to your local machine:
